@@ -1,0 +1,19 @@
+Main Page
+	Should list all open cases for a selected provider
+		All open cases should be editable
+		All open cases should be deletable
+		All open cases should be submitable
+	Should have options to change providers
+	Should have options to create a new case
+DB
+	User
+		Basic user stuff
+	Provider
+		Name, NPI, ProviderId
+	Case
+		CaseID, LocationID, PatientID
+	Patient
+		PatientID, MRN
+	Location
+		Name, Address, Phone, LocationId
+	
